@@ -161,7 +161,7 @@ export const mainStore = defineStore("mainData", {
       // 时间数据
       timeData: null,
       // 字体大小
-      listFontSize: 10,
+      listFontSize: 16,
     };
   },
   getters: {},
