@@ -44,7 +44,7 @@ footer {
     margin-bottom: 4px;
     .description {
       &::after {
-        content: "@ Copyright by";
+        content: "© Copyright by";
         margin: 0 6px;
       }
     }
