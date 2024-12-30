@@ -272,7 +272,7 @@ onMounted(() => {
   .title {
     display: flex;
     align-items: center;
-    font-size: 12px;
+    font-size: 14px;
     height: 26px;
     .name {
       display: flex;
