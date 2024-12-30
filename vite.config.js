@@ -51,7 +51,7 @@ export default defineConfig(({ mode }) => {
           ],
         },
         manifest: {
-          name: "立方新闻",
+          name: "立体新闻",
           short_name: "Cubic News",
           description: "汇聚全网热点，热门尽览无余",
           display: "standalone",
