@@ -4,7 +4,7 @@ export const mainStore = defineStore("mainData", {
   state: () => {
     return {
       // 系统主题
-      siteTheme: "light",
+      siteTheme: "dark",
       siteThemeAuto: true,
       // 新闻类别
       defaultNewsArr: [
