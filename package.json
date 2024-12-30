@@ -1,8 +1,8 @@
 {
   "name": "Cubic News",
-  "description": "立方新闻",
-  "author": "imsyy",
-  "github": "https://github.com/imsyy",
+  "description": "立体新闻",
+  "author": "cubic.news",
+  "github": "https://cubic.news",
   "version": "1.2.0",
   "private": true,
   "scripts": {
