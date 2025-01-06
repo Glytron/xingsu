@@ -1,8 +1,8 @@
 {
-  "name": "Cubic News",
-  "description": "立体新闻",
-  "author": "cubic.news",
-  "github": "https://cubic.news",
+  "name": "Xingsu News",
+  "description": "星速新闻",
+  "author": "xing.su",
+  "github": "https://xing.su",
   "version": "1.2.0",
   "private": true,
   "scripts": {
