@@ -51,8 +51,8 @@ export default defineConfig(({ mode }) => {
           ],
         },
         manifest: {
-          name: "立体新闻",
-          short_name: "Cubic News",
+          name: "星速新闻",
+          short_name: "Xingsu News",
           description: "汇聚全网热点，热门尽览无余",
           display: "standalone",
           start_url: "/",
